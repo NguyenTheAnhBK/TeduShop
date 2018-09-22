@@ -1,5 +1,20 @@
+D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
+D:\TEDU\Finally\Source Code\Git\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+D:\TEDU\Finally\Source Code\Git\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
 C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
 C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csprojAssemblyReference.cache
 C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
 C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll.config
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Common\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Common\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CopyComplete

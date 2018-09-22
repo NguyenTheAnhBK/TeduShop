@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.ComponentModel.DataAnnotations;
 
 namespace TeduShop.Model.Models
 {
@@ -15,12 +10,13 @@ namespace TeduShop.Model.Models
         public int ID { set; get; }
 
         [Required]
-        [Column(TypeName ="varchar")]
+        [Column(TypeName = "varchar")]
         [MaxLength(50)]
         public string Code { set; get; }
 
         [MaxLength(50)]
         public string ValueString { set; get; }
+
         public int? ValueInt { set; get; }
     }
 }

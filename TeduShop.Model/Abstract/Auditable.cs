@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
+
 namespace TeduShop.Model.Abstract
 {
-    public class Auditable : IAuditable
+    public abstract class Auditable : IAuditable
     {
         public DateTime? CreatedDate { set; get; }
 
@@ -16,7 +13,7 @@ namespace TeduShop.Model.Abstract
         public DateTime? UpdatedDate { set; get; }
 
         [MaxLength(256)]
-        public string UpdateBy { set; get; }
+        public string UpdatedBy { set; get; }
 
         [MaxLength(256)]
         public string MetaKeyword { set; get; }

@@ -132,21 +132,6 @@ namespace TeduShop.Data.Infrastructure
         {
             return dataContext.Set<T>().Count<T>(predicate) > 0;
         }
-
-        public T GetSignleById(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public T GetSignleByCondition(Expression<Func<T, bool>> expression, string[] includes = null)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IQueryable<T> GetMultiPagin(Expression<Func<T, bool>> filter, out int total, int index = 0, int size = 50, string[] includes = null)
-        {
-            throw new NotImplementedException();
-        }
         #endregion
     }
 }

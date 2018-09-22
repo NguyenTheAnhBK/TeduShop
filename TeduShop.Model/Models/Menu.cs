@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.ComponentModel.DataAnnotations;
+
 namespace TeduShop.Model.Models
 {
     [Table("Menus")]
@@ -12,17 +8,20 @@ namespace TeduShop.Model.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int ID { set; get;}
+        public int ID { set; get; }
 
         [Required]
+        [MaxLength(50)]
         public string Name { set; get; }
 
         [Required]
+        [MaxLength(256)]
         public string URL { set; get; }
 
-        public int DisplayOrder { set; get; }
+        public int? DisplayOrder { set; get; }
+
         [Required]
-        public int GroupID { set; get; }//GroupID sẽ trỏ đến khóa chính ID của MenuGroup
+        public int GroupID { set; get; }
 
         [ForeignKey("GroupID")]
         public virtual MenuGroup MenuGroup { set; get; }

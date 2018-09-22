@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TeduShop.Model.Models
 {
@@ -13,7 +9,7 @@ namespace TeduShop.Model.Models
     {
         [Key]
         public Guid ID { set; get; }
-        
+
         [Required]
         public DateTime VisitedDate { set; get; }
 
