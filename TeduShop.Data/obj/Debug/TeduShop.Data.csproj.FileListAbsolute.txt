@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll.config
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
